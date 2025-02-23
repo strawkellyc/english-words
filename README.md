@@ -28,3 +28,7 @@ Feb 20 1529: making random changes
 
 ====
 Feb 23 1526: give it a try to connect to remote repo on github
+
+==== 
+
+Feb 23 1539: a second attempt today
